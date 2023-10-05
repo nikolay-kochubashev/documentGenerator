@@ -50,6 +50,9 @@ const minioClient = new Minio.Client({
 
 After installing and launching the application, you can start using it to generate documents. An example of usage is provided in the application code.
 
+### Add acess keys
+Go to http://localhost:9090/access-keys and generate keys. Add this keys to your Nodejs code in App.js as shown above.
+
 ### Add new bucket
 Go to http://localhost:9090/ and add new Bucket, "general-templates" for example
 ![image](https://github.com/nikolay-kochubashev/documentGenerator/assets/54528038/d4371b46-780c-460d-9a6e-e094fe3dc57e)
