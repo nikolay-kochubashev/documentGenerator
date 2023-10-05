@@ -23,11 +23,13 @@ npm start
 
 Minio is a high-performance distributed object storage. You can use Docker to install and run it. Here is an example of a command to run Minio in Docker:
 
-```bash
+```
+bash
 docker run -p 9000:9000 --name minio1 \
   -e "MINIO_ACCESS_KEY=your-access-key" \
   -e "MINIO_SECRET_KEY=your-secret-key" \
-  minio/minio server /data```
+  minio/minio server /data
+```
 
 After the launch, Minio is available at http://localhost:9090 .
 
