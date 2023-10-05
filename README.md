@@ -63,9 +63,13 @@ Type "localhost:3005/api/render/general-templates/complicated.docx"
 ![image](https://github.com/nikolay-kochubashev/documentGenerator/assets/54528038/e901e148-4a7a-467d-842c-6065bb0b7dac)
 
 Save Response as a file and you can see the result
-![image](https://github.com/nikolay-kochubashev/documentGenerator/assets/54528038/dd3b92c8-65a8-4857-9e48-58181f1a41eb)
+![image](https://github.com/nikolay-kochubashev/documentGenerator/assets/54528038/86ad1d28-79b8-41f3-879b-08ac5365d8e5)
+
 You got it!
 
 ## About Me
-
+My name is Nikolay Kochubashev, I am a solution and application architect in a large company in Kazakhstan. I specialize in low-code solutions and platform engineering.
+[https://solution-architect.kz]([url](https://solution-architect.kz)) [https://low-code.kz](https://low-code.kz)
+I am blogging in the telegram channel in Russian [https://t.me/architectkz](https://t.me/architectkz)
+nikolay.kochubashev@gmail.com
 
