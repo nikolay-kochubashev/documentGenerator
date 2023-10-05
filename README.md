@@ -7,7 +7,6 @@ This solution is an application that uses CarboneJS to generate documents, Minio
 ## Installation
 To install, you need to clone the repository and install all dependencies using npm or yarn.
 ```
-bash
 git clone https://github.com/nikolay-kochubashev/documentGenerator
 cd documentGenerator
 npm install
@@ -16,7 +15,6 @@ npm install
 
 You can start the application using the npm start or yarn start command.
 ```
-bash
 npm start
 ```
 ## Deploying Minio
@@ -24,7 +22,6 @@ npm start
 Minio is a high-performance distributed object storage. You can use Docker to install and run it. Here is an example of a command to run Minio in Docker:
 
 ```
-bash
 docker run -p 9000:9000 --name minio1 \
   -e "MINIO_ACCESS_KEY=your-access-key" \
   -e "MINIO_SECRET_KEY=your-secret-key" \
