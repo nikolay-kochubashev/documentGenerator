@@ -50,14 +50,22 @@ const minioClient = new Minio.Client({
 
 After installing and launching the application, you can start using it to generate documents. An example of usage is provided in the application code.
 
-## License
+### Add new bucket
+Go to http://localhost:9090/ and add new Bucket, "general-templates" for example
+![image](https://github.com/nikolay-kochubashev/documentGenerator/assets/54528038/d4371b46-780c-460d-9a6e-e094fe3dc57e)
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+### Upload template
+Upload new document from repository "complicated.docx"
+![image](https://github.com/nikolay-kochubashev/documentGenerator/assets/54528038/25866afb-4435-4136-9374-bb850e29fcba)
 
-## Support
+### Post Request throught Postman
+Type "localhost:3005/api/render/general-templates/complicated.docx"
+![image](https://github.com/nikolay-kochubashev/documentGenerator/assets/54528038/e901e148-4a7a-467d-842c-6065bb0b7dac)
 
-If you have any problems or questions, please create an "issue" in this repository.
+Save Response as a file and you can see the result
+![image](https://github.com/nikolay-kochubashev/documentGenerator/assets/54528038/dd3b92c8-65a8-4857-9e48-58181f1a41eb)
+You got it!
 
-## Contribution
+## About Me
 
-Contributions to this project are welcome. If you want to contribute, please make a "fork" of this repository and send a "pull request".
+
