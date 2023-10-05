@@ -77,3 +77,5 @@ My name is Nikolay Kochubashev, I am a solution and application architect in a l
 I am blogging in the telegram channel in Russian [https://t.me/architectkz](https://t.me/architectkz)
 nikolay.kochubashev@gmail.com
 
+You can buy me a coffee and I write to you my thank you!  :)
+[https://www.buymeacoffee.com/n.kochubashev](https://www.buymeacoffee.com/n.kochubashev)
