@@ -8,7 +8,7 @@ This solution is an application that uses CarboneJS to generate documents, Minio
 To install, you need to clone the repository and install all dependencies using npm or yarn.
 ```
 bash
-git clone https://github.com/your-repo-url](https://github.com/nikolay-kochubashev/documentGenerator)
+git clone https://github.com/nikolay-kochubashev/documentGenerator
 cd documentGenerator
 npm install
 ```
