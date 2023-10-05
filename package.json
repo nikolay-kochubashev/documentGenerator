@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "carbone": "^3.5.5",
+    "express": "^4.17.0",
+    "minio": "^7.1.3"
+  }
+}
