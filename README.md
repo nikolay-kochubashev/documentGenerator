@@ -69,7 +69,8 @@ You got it!
 
 ## About Me
 My name is Nikolay Kochubashev, I am a solution and application architect in a large company in Kazakhstan. I specialize in low-code solutions and platform engineering.
-[https://solution-architect.kz](https://solution-architect.kz) [https://low-code.kz](https://low-code.kz)
+[https://solution-architect.kz](https://solution-architect.kz) 
+[https://low-code.kz](https://low-code.kz)
 I am blogging in the telegram channel in Russian [https://t.me/architectkz](https://t.me/architectkz)
 nikolay.kochubashev@gmail.com
 
